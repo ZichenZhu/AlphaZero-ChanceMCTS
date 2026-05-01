@@ -1,0 +1,5 @@
+open_spiel
+torch
+numpy
+matplotlib
+tqdm

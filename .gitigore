@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pth
+results/
+*.png
+open_spiel/
+.DS_Store
+venv/

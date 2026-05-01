@@ -2,7 +2,7 @@
 
 Reproducing and extending AlphaZero (Silver et al., 2017) using OpenSpiel.
 
-**Track 3**: Build a course-scale AlphaZero pipeline on Connect Four, then adapt it to Backgammon by modifying MCTS to handle chance nodes (dice rolls).
+Build a course-scale AlphaZero pipeline on Connect Four, then adapt it to Backgammon by modifying MCTS to handle chance nodes (dice rolls).
 
 ## Setup
 
